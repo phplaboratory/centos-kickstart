@@ -9,7 +9,7 @@ keyboard --vckeymap=us --xlayouts='us'
 # System language
 lang en_US.UTF-8
 
-rootpw --iscrypted $6$HqS6tEQZKMzZXRqT$T1dmqcISnQQtVR.u/Sh56jKr75bS2JwZe20PddB/Ab1kT3391igLp8AA5VX5vlhbl8WJHtMKyMlrxeHB7ghjK1
+rootpw --iscrypted $6$g2KwwBC2mn$Lxt2E8hrA.Fb6steIEmmgNKOFhYcyeymhAaHqnECKNu36xp5sei2LBl1atLHcVWEa74Ggcsn346N1JE64OGWp0
 # System timezone
 timezone Europe/London --isUtc
 # Run the Setup Agent on first boot
