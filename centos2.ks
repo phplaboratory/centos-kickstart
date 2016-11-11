@@ -26,6 +26,7 @@ bootloader --location=mbr --boot-drive=vda
 %packages
 @core
 @base
+%end
 
 %post
 ( 
