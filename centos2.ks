@@ -37,4 +37,5 @@ ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDn8IrSHYNdHAnQ8uCr/h0jZQyAJVpJWPds
 PUBLIC_KEY
 chmod 600 .ssh/authorized_keys
 ) 1>/root/post_install.log 2>&1
+
 %end
